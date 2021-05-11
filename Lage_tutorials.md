@@ -1,6 +1,6 @@
 # Navn på tutorial: Veiledning for å bygge en tutorial for MakeCode
 
-### @diffs true             (Dette gjør at koden vi ser i hint, gjør koden fra et tidligere steg grått)
+### @diffs true             (Dette gjør at koden vi ser i hint, viser koden fra et tidligere steg i grå farge)
 
 ## Steg 1: Lage et steg
 
