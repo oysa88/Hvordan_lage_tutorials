@@ -57,3 +57,13 @@ Lage en tabell:
 ---: Høyrestille kolonne
 
 Bruk ekstra | for å justere avstanden mellom hver kolonne
+
+## Steg 4: Lage et nytt steg
+
+### Overskrift for steg 4
+
+Bestemme om teksten skal være **Bold**, *Italic* eller ***Bolditalic***.
+
+- Hvis teksten skal være bold: `**Bold**`
+- Hvis teksten skal være italic: `*Italic*`
+- Hvis teksten skal være bolditalic: `***Bolditalic***`
